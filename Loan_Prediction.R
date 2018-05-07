@@ -1,0 +1,1 @@
+setwd("C:/Users/Ganesh/Desktop/My Files/ganesh_nielsen/Analytics_Vidhya/Loan_Prediction")
